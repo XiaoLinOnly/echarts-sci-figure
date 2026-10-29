@@ -1,0 +1,12 @@
+{
+  "name": "echarts-sci-figure",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Local renderer for publication-ready ECharts figures",
+  "dependencies": {
+    "echarts": "^6.0.0",
+    "esbuild": "^0.28.2",
+    "sharp": "^0.34.0"
+  }
+}
